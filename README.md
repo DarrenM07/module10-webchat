@@ -4,4 +4,4 @@
 > Original code
 
 ![Login](img/ss1.png)
-![Chat](imag/ss2.png)
+![Chat](img/ss2.png)
